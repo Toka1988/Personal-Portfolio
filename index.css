@@ -1,7 +1,25 @@
 body{
   min-width: 250px;
   color: #1616F5;
-  background-color: #ffffff;
+  background-color:#09DEC8;
   font-family: cursive;
   text-shadow: 0 0px 0.1vw #1616F5;
+  line-height: 1.5;
+  height: 200vw;
+}
+#navbar{
+  position: fixed;
+  min-width: 250px;
+  top: 0px;
+  left: 0px;
+  width: 300px;
+  height:100%;
+  border-right:solid;
+  border-color: #8D0AFA;
+}
+#main-doc{
+  position: absolute;
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 100px;
 }
