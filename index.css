@@ -23,3 +23,7 @@ body{
   padding: 20px;
   margin-bottom: 100px;
 }
+#title,#Whatisimportant,#aboutus,#wheretostart,#Introduction1,#Howtolearn{
+  font-size: 1.8vw;
+  font-weight: bold;
+}
